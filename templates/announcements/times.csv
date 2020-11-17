@@ -94,3 +94,4 @@ datetime_start,datetime_end,alert_type,category,location
 20200820 10:45, 20200820 12:00,alert-info,social-activity.ptl
 20200820 10:00, 20200820 10:45,alert-success,quickstart+section.ptl
 20200819 08:30, 20200819 09:00,alert-info,AMA.ptl
+20201117 13:00, 20201117 14:00,alert-info,nick.ptl
